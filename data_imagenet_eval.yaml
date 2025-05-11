@@ -1,0 +1,6 @@
+names:
+- car
+nc: 1
+path: C:/Users/Ethan/OneDrive/Desktop/ECE 4990 Final Project/datasets/data/imagenet_eval
+train: ../not_used
+val: images/val
