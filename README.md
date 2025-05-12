@@ -1,4 +1,4 @@
-# Computer-Vision-Object-Detection-of-Cars
+# Object Detection and Classification of Cars in Images and Videos Using the YOLOv8n
 
 Link to Stanford Cars Dataset: https://www.kaggle.com/datasets/eduardo4jesus/stanford-cars-dataset
 
